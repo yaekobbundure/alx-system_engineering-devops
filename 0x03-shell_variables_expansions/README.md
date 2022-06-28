@@ -9,5 +9,6 @@ The alias Command
 7. Create a script that creates a new global variable.
 8. Every addition to true knowledge is an addition to human power
 9. Divide and rule
-10
+10.Write a script that displays the result of BREATH to the power LOVE
 11. There are 10 types of people in the world.
+
