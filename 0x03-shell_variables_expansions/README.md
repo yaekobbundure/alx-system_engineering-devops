@@ -4,3 +4,4 @@ The alias Command
 2. The path to success is to take massive, determined action
 3. let us not ask where it is
 4. Create a script that lists environment variables.
+5. Create a script that lists all local variables and environment variables, and functions.
