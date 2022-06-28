@@ -1,2 +1,2 @@
-the alias command
-0. how to creat alias command
+The alias Command
+0. Create a script that creates an alias.
