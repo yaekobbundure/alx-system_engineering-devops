@@ -13,3 +13,7 @@ The alias Command
 11. There are 10 types of people in the world.
 12. Create a script that prints all possible combinations of two letters, except oo.
 13. Write a script that prints a number with two decimal places, followed by a new line.
+14. 14. Decimal to Hexadecimal
+15. Everyone is a proponent of strong encryption
+16. The eggs of the brood need to be an odd number
+17. I'm an instant star. Just add water and stir.
